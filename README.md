@@ -19,7 +19,7 @@ Networking and Security: Cisco, Juniper, MikroTik, Fortinet
 
 - 🔭 I’m currently working on [SDN]
 
-- 🌱 I’m currently learning **Python and AWS**
+- 🌱 I’m currently learning **C# and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoseBracho](https://github.com/JoseBracho)
 
