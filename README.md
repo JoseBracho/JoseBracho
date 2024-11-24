@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jose Bracho</h1>
 <h3 align="center">Computer engineer</h3>
 
-💻 Desarrollador Web | Especialista en Seguridad y Redes
-Apasionado por la tecnología y el desarrollo, tengo experiencia en la creación de soluciones web utilizando tecnologías modernas como Node.js, Java, JavaScript y React. Mi enfoque no solo se centra en escribir código eficiente, sino también en garantizar la seguridad y el rendimiento de las aplicaciones.
+💻Web Developer | Security and Network Specialist Passionate about technology and development, I have experience in creating web solutions using modern technologies such as Node.js, Java, JavaScript and React. My focus is not only on writing efficient code, but also on ensuring application security and performance.
 
-🔒 Además, poseo sólidos conocimientos en seguridad informática, con experiencia práctica en la administración de equipos como Fortinet y configuraciones de seguridad avanzada.
+🔒 In addition, I have solid knowledge in computer security, with practical experience in managing equipment such as Fortinet and advanced security configurations.
 
-🌐 En el ámbito de redes, tengo un fuerte dominio en la administración y configuración de infraestructuras utilizando Cisco, Juniper y MikroTik, asegurando comunicaciones rápidas y seguras.
+🌐 In the field of networks, I have a strong command in the administration and configuration of infrastructures using Cisco, Juniper and MikroTik, ensuring fast and secure communications.
 
-💡 Siempre estoy buscando aprender algo nuevo y colaborar en proyectos desafiantes que me permitan crecer como profesional y contribuir al éxito de equipos tecnológicos.
+💡 I am always looking to learn something new and collaborate on challenging projects that allow me to grow as a professional and contribute to the success of technological teams.
 
-🛠 Stack principal:
+🛠 Main stack:
 
-Backend: Node.js, Java
-Frontend: JavaScript, React
-Redes y seguridad: Cisco, Juniper, MikroTik, Fortinet
-📫 ¡Conéctate conmigo! Estoy abierto a colaborar en proyectos interesantes.
+Backend: Node.js, Java Frontend: JavaScript, React 
+Networking and Security: Cisco, Juniper, MikroTik, Fortinet 
+
+📫 Connect with me! I am open to collaborating on interesting projects.
 
 
 - 🔭 I’m currently working on [SDN]
@@ -28,6 +27,7 @@ Redes y seguridad: Cisco, Juniper, MikroTik, Fortinet
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  LinkedIN: linkedin.com/in/jose-bracho-delgado
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
