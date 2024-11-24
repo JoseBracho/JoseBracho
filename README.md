@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jose Bracho</h1>
 <h3 align="center">Computer engineer</h3>
 
+💻 Desarrollador Web | Especialista en Seguridad y Redes
+Apasionado por la tecnología y el desarrollo, tengo experiencia en la creación de soluciones web utilizando tecnologías modernas como Node.js, Java, JavaScript y React. Mi enfoque no solo se centra en escribir código eficiente, sino también en garantizar la seguridad y el rendimiento de las aplicaciones.
+
+🔒 Además, poseo sólidos conocimientos en seguridad informática, con experiencia práctica en la administración de equipos como Fortinet y configuraciones de seguridad avanzada.
+
+🌐 En el ámbito de redes, tengo un fuerte dominio en la administración y configuración de infraestructuras utilizando Cisco, Juniper y MikroTik, asegurando comunicaciones rápidas y seguras.
+
+💡 Siempre estoy buscando aprender algo nuevo y colaborar en proyectos desafiantes que me permitan crecer como profesional y contribuir al éxito de equipos tecnológicos.
+
+🛠 Stack principal:
+
+Backend: Node.js, Java
+Frontend: JavaScript, React
+Redes y seguridad: Cisco, Juniper, MikroTik, Fortinet
+📫 ¡Conéctate conmigo! Estoy abierto a colaborar en proyectos interesantes.
+
+
 - 🔭 I’m currently working on [SDN]
 
 - 🌱 I’m currently learning **Python and AWS**
