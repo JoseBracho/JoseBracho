@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Bracho</h1>
 <h3 align="center">Computer engineer</h3>
 
-- 🔭 I’m currently working on [Alexandria](https://github.com/JoseBracho/alexandria)
+- 🔭 I’m currently working on [SDN]
 
 - 🌱 I’m currently learning **Python and AWS**
 
